@@ -1,2 +1,4 @@
-# This test repository has been created to verify the Güthub connection.
+#TestRepo
+
+This test repository has been created to verify the Github connection.
 
